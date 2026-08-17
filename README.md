@@ -98,7 +98,6 @@ Status:           Vivo (por enquanto)
 
 <div align="center">
 
-*📌 Dica: fixe seus melhores repositórios na aba principal do perfil para que eles apareçam automaticamente logo abaixo deste README.*
 
 </div>
 
@@ -163,7 +162,7 @@ Status:           Vivo (por enquanto)
 | _Edite aqui_ | ⭐⭐⭐⭐⭐ |
 | _Edite aqui_ | ⭐⭐⭐⭐ |
 
-> *"Adicione aqui uma frase/citação de anime que combine com você!"*
+> *"Denji...The truth is...I've never been to school, either."*
 
 **Atualmente assistindo:** `Chainsaw Man — O Filme: Arco da Reze`
 
